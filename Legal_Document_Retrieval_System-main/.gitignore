@@ -1,0 +1,7 @@
+# Ignore compiled Python files
+__pycache__
+
+# Ignore the main.py file
+main.py
+
+
